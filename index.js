@@ -11,5 +11,7 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.toLowerCase() === 
+  if (string.toLowerCase() === string) {
+    
+  }
 }
